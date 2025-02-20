@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-user',
-  templateUrl: './user.component.html', // تأكد أن الملف بنفس الاسم
+  templateUrl: './user.component.html', 
   styleUrls: ['./user.component.css'],
   standalone: true,
   imports: [CommonModule, FormsModule] 
